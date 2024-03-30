@@ -1,0 +1,6 @@
+@Angular17CRUDWebApi_HostAddress = http://localhost:5002
+
+GET {{Angular17CRUDWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
